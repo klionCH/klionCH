@@ -116,6 +116,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/klionCH/klionCH/output/snake.svg" alt="Snake animation" />
-
 ###

@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">- I am currently in my second year at the IMS in Winterthur, Switzerland 🇨🇭<br>- On this Github I upload my private and school projects</h2>
+<h3 align="center">- I am currently in my second year at the IMS in Winterthur, Switzerland 🇨🇭<br>- On this Github I upload my private and school projects</h3>
 
 ###
 

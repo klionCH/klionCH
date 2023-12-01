@@ -2,13 +2,19 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://static.vecteezy.com/system/resources/previews/015/309/675/original/switzerland-waving-flag-realistic-transparent-background-free-png.png"  />
+<img align="left" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/512px-Flag_of_Switzerland.svg.png?20191016012602"  />
 
 ###
 
-<h4 align="left">- I am currently in my second year at the IMS in Winterthur, Switzerland 🇨🇭<br>- On this Github I upload my private and school projects</h4>
+<h2 align="center">- I am currently in my second year at the IMS in Winterthur, Switzerland 🇨🇭<br>- On this Github I upload my private and school projects</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"  />
+</div>
 
 ###
 
@@ -17,8 +23,6 @@
 <h3 align="center">My Skills:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -34,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -43,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -65,8 +63,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -77,8 +73,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />

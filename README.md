@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Sven and I am from Switzerland</h1>
 
 ###
 

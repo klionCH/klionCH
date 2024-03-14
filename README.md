@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<h3 align="center">My Skills:</h3>
+<h3 align="center">My Stack:</h3>
 
 ###
 

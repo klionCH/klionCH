@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<h3 align="center">My Stack:</h3>
+<h3 align="center">I have worked with:</h3>
 
 ###
 

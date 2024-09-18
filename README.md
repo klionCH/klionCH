@@ -1,8 +1,6 @@
 
 ###
 
-<img align="left" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/512px-Flag_of_Switzerland.svg.png?20191016012602"  />
-
 ###
 
 ###
@@ -89,8 +87,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 

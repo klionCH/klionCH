@@ -24,9 +24,8 @@ public class AboutMe {
 ###
 
 <br clear="both">
-[![trophy](https://github-profile-trophy.vercel.app/?username=klionCH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Applikationsentwickler+EFZ;Java+%2F+Next.js+%2F+Docker;Coffee-powered+developer)
 
-<br clear="both">
 
 
 <h3 align="center">My Git:</h3>

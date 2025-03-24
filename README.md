@@ -13,22 +13,21 @@ public class AboutMe {
 }
 ```
 
-
 <br clear="both">
 
 <h3 align="center">Where you can conntact me:</h3>
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
 ###
 
 <br clear="both">
+[![trophy](https://github-profile-trophy.vercel.app/?username=klionCH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br clear="both">
+
 
 <h3 align="center">My Git:</h3>
 

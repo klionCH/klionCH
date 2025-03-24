@@ -1,20 +1,17 @@
 
-###
+``` java
+public class AboutMe {
+    public static void main(String[] args) {
+        String name = "Sven Lübcke";
+        int age = 19;
+        String currentCareerStage = "Lernender zum Applikationsentwickler mit BM im 3. Jahr der IMS";
 
-###
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
+        String[] languageStack = {"Java", "JavaScript", "SQL"};
+        String[] techStack = {"Next.js", "Vue.js", "Tailwind CSS", "Spring Boot", "Supabase"};
+        String[] devOpsTools = {"git", "GitHub", "Docker", "Docker Hub", "Postman", "JetBrains IDEs", "ChatGPT", "Claude"};
+    }
+}
+```
 
 
 <br clear="both">

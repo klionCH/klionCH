@@ -2,13 +2,12 @@
 ``` java
 public class AboutMe {
     public static void main(String[] args) {
-        String name = "Sven Lübcke";
+        String name = "Sven";
         int age = 19;
-        String currentCareerStage = "Lernender zum Applikationsentwickler mit BM im 3. Jahr der IMS";
+        String currentCareerStage = "Internship (4th year IMS)";
 
-        String[] languageStack = {"Java", "JavaScript", "SQL"};
-        String[] techStack = {"Next.js", "Vue.js", "Tailwind CSS", "Spring Boot", "Supabase"};
-        String[] devOpsTools = {"git", "GitHub", "Docker", "Docker Hub", "Postman", "JetBrains IDEs", "ChatGPT", "Claude"};
+        String[] languageStack = {"Java", "PHP", "JavaScript", "SQL"};
+        String[] techStack = {"Next.js", "Tailwind CSS", "Spring Boot", "twig"};
     }
 }
 ```

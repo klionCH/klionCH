@@ -3,11 +3,12 @@
 public class AboutMe {
     public static void main(String[] args) {
         String name = "Sven";
-        int age = 19;
+        int age = 20;
         String currentCareerStage = "Internship (4th year IMS)";
 
-        String[] languageStack = {"Java", "PHP", "JavaScript", "SQL"};
-        String[] techStack = {"Next.js", "Tailwind CSS", "Spring Boot", "twig"};
+        String[] currentMainLanguages = {"PHP", "JavaScript", "SQL"};
+        String[] alsoWorkedWith = {"Java"};
+        String[] techStack = {"Doctrine", "Symfony", "Twig", "React", "Spring Boot", "Tailwind CSS"};
     }
 }
 ```
